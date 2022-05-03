@@ -36,4 +36,4 @@
 <a href="https://get-bootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="sass" width="40" height="40"/> </a>
 
 <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="sass" width="40" height="40"/> </a>
-
+</p>
