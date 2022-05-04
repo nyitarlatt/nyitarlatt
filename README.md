@@ -16,7 +16,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkIn" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/ariko.nora" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="@nayyaung.developer" height="30" width="40" />
+<img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="" height="30" width="40" />
 </a>
 </p>
 
